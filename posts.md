@@ -1,7 +1,7 @@
 ---
 layout: post-index
 permalink: /posts/
-title: Articles
-tagline: A List of Posts
+title: Artículos
+tagline: Lista de posts
 tags: [blog, graphic design]
 ---
