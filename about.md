@@ -1,29 +1,27 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About the Theme
-tagline: Minimal Mistakes, a Jekyll Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 9-9-2013
+title: ¿Que es Scala.pe?
+tagline: Scala Perú
+tags: [scala, peru]
+modified: 14-12-2013
 image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: header-code-1.jpg
 ---
 
-Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://mademistakes.com)[^1] as a theme for others to hack and build on would be fun. So here be that theme --- I call it **Minimal Mistakes**, a responsive Jekyll theme with large featured images and solid typography. 
+**Scala.pe** nace con la intención de difundir el lenguaje Scala y sus beneficios, unir a personas que comparten el mismo interés y generar espacios de tiempo en una comunidad para compartir información, código y proyectos. El principal propósito es dar a conocer el lenguaje a traves de información, eventos, charlas, coding dojos, hackatones y otras especias que nos gusta como programadores.
 
-## Minimal Mistakes is all about:
+## ¿Cómo puedo contribuir?
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments --- content first.
-* Large feature images for posts and pages.
-* Author sidebar to pimp your bio, photo[^2], and social media links.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
+La mejor forma de contribuir es participar, la contribución queda a la imaginación de la comunidad, nosotros te damos algunas ideas que quizá te puedan interesar:
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+* Ayudar con el mantenimiento de la página.
+* Auspiciando los encuentros.
+* Contribuyendo con la planificación de los eventos.
+* Compartiendo libros.
+* Generando tutoriales.
 
-[^1]: Since open sourcing this theme I have released a couple other Jekyll themes. My website [Made Mistakes](http://mademistakes.com) is currently using a modified version of my [So Simple Theme](http://mmistakes.github.io/so-simple-theme/).
+Si estas interesado en contribuir de alguna forma por favor ponte en contacto con nosotros a **contacto@scala.pe**.
 
-[^2]: Fancy avatars provided by [Brandon Mathis](http://brandonmathis.com/projects/fancy-avatars/demo/) under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
+Te recomendamos visitar nuestra sección [FAQ](/faq).
+ 
